@@ -12,6 +12,10 @@ O jogador deve selecionar no **teclado 4x4** o número de LEDs acesos.
 ## Imagens
 
 <img src="Imagens/project-3.jpeg" width="300">
+<img src="Imagens/project-3-2.jpeg" width="300">
+<img src="Imagens/project-3-3.jpeg" width="300">
+<img src="Imagens/project-3-4.jpeg" width="300">
+
 
 ---
 
