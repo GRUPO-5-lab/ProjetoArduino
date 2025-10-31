@@ -6,7 +6,7 @@ Este Arduino cicla 5 cores acendendo e apagando durante três segundos cada LED 
 
 ## Imagens
 
-<img src="Imagens/project-1-1.jpeg" width="300"">
+<img src="Imagens/project-1-1.jpeg" width="300">
 <img src="Imagens/project-1-2.jpeg" width="300">
 <img src="Imagens/project-1-3.jpeg" width="300">
 <img src="Imagens/project-1-4.jpeg" width="300">
